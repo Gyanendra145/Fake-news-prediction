@@ -1,2 +1,2 @@
 # Fake-news-prediction
-Fake news prediction using pyton and machine classification learning algorithms
+Fake news prediction using python and machine learning classification algorithms
